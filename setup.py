@@ -15,7 +15,7 @@ setup(
     description='Python package for payment API of IDPay gateway.',
     url='https://github.com/vispamir/python-idpay',
     classifiers=[
-        'Development Status :: 1 - Beta',
+        'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
         'Environment :: Console',
         'Environment :: Web Environment',
